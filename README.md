@@ -33,3 +33,5 @@ UI Clone (Mobile) - Twitch App
 
 1. Run `npm install` or `yarn install`.<br />
 2. Run `yarn start`.<br />
+
+Made by Isaque Igor
